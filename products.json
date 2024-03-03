@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "title": "Product 1",
+        "description": "Description for Product 1",
+        "code": "P001",
+        "price": 19.99,
+        "status": true,
+        "stock": 100,
+        "category": "Electronics",
+        "thumbnails": [
+            "image1.jpg",
+            "image2.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Product 2",
+        "description": "Description for Product 2",
+        "code": "P002",
+        "price": 29.99,
+        "status": true,
+        "stock": 50,
+        "category": "Clothing",
+        "thumbnails": [
+            "image3.jpg",
+            "image4.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Product 3",
+        "description": "Description for Product 3",
+        "code": "P003",
+        "price": 39.99,
+        "status": true,
+        "stock": 75,
+        "category": "Home & Kitchen",
+        "thumbnails": [
+            "image5.jpg",
+            "image6.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Product 4",
+        "description": "Description for Product 4",
+        "code": "P004",
+        "price": 49.99,
+        "status": true,
+        "stock": 120,
+        "category": "Sports & Outdoors",
+        "thumbnails": [
+            "image7.jpg",
+            "image8.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Product 5",
+        "description": "Description for Product 5",
+        "code": "P005",
+        "price": 59.99,
+        "status": true,
+        "stock": 60,
+        "category": "Toys & Games",
+        "thumbnails": [
+            "image9.jpg",
+            "image10.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Product 6",
+        "description": "Description for Product 6",
+        "code": "P006",
+        "price": 69.99,
+        "status": true,
+        "stock": 90,
+        "category": "Beauty",
+        "thumbnails": [
+            "image11.jpg",
+            "image12.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Product 7",
+        "description": "Description for Product 7",
+        "code": "P007",
+        "price": 79.99,
+        "status": true,
+        "stock": 80,
+        "category": "Books",
+        "thumbnails": [
+            "image13.jpg",
+            "image14.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Product 8",
+        "description": "Description for Product 8",
+        "code": "P008",
+        "price": 89.99,
+        "status": true,
+        "stock": 110,
+        "category": "Furniture",
+        "thumbnails": [
+            "image15.jpg",
+            "image16.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Product 9",
+        "description": "Description for Product 9",
+        "code": "P009",
+        "price": 99.99,
+        "status": true,
+        "stock": 70,
+        "category": "Jewelry",
+        "thumbnails": [
+            "image17.jpg",
+            "image18.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Product 10",
+        "description": "Description for Product 10",
+        "code": "P010",
+        "price": 109.99,
+        "status": true,
+        "stock": 95,
+        "category": "Tools",
+        "thumbnails": [
+            "image19.jpg",
+            "image20.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Product 11",
+        "description": "Description for Product 11",
+        "code": "P0011",
+        "price": 19.99,
+        "status": true,
+        "stock": 100,
+        "category": "Electronics",
+        "thumbnails": []
+    },
+    {
+        "id": 12,
+        "title": "Product 12",
+        "description": "Description for Product 12",
+        "code": "P0012",
+        "price": 19.99,
+        "status": true,
+        "stock": 100,
+        "category": "Electronics",
+        "thumbnails": []
+    }
+]
